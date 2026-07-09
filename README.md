@@ -1,6 +1,6 @@
 # Renewable Project Finance Case Studies
 
-Welcome to my self-study portfolio on renewable energy project finance.
+Welcome to my self-study portfolio on project finance.
 
 ## Purpose
 
