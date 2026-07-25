@@ -16,6 +16,8 @@ Allows a senior reader to understand the entire case without reading every suppo
 
 ## Deliverables
 
+The analytical output for this workstream is documented in [`deliverable.md`](./deliverable.md).
+
 - [ ] Transaction overview
 - [ ] Strategic rationale
 - [ ] Business and asset summary

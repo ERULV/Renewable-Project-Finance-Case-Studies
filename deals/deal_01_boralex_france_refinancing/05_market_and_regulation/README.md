@@ -16,6 +16,8 @@ Explains the external conditions that determine revenue stability, growth opport
 
 ## Deliverables
 
+The analytical output for this workstream is documented in [`deliverable.md`](./deliverable.md).
+
 - [ ] French electricity-market overview
 - [ ] Renewable support mechanisms
 - [ ] PPA and merchant-market context

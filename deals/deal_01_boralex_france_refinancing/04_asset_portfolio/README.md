@@ -16,6 +16,8 @@ Identifies the physical and commercial sources of cash flow available to service
 
 ## Deliverables
 
+The analytical output for this workstream is documented in [`deliverable.md`](./deliverable.md).
+
 - [ ] Portfolio inventory
 - [ ] Technology and geographic breakdown
 - [ ] Operating versus development-stage capacity

@@ -16,6 +16,8 @@ Separates sponsor strength and behaviour from the standalone quality of the fina
 
 ## Deliverables
 
+The analytical output for this workstream is documented in [`deliverable.md`](./deliverable.md).
+
 - [ ] Boralex company profile
 - [ ] Energy Infrastructure Partners profile
 - [ ] Ownership and governance analysis

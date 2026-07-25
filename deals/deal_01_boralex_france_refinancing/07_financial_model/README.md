@@ -16,6 +16,8 @@ Converts the business, market, technical and financing analyses into measurable 
 
 ## Deliverables
 
+The analytical output for this workstream is documented in [`deliverable.md`](./deliverable.md).
+
 - [ ] Model architecture and methodology
 - [ ] Operating-portfolio forecast
 - [ ] Revenue and operating-cost assumptions

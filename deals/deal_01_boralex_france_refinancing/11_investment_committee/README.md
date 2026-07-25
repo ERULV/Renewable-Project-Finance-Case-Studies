@@ -16,6 +16,8 @@ Transforms the detailed analysis into a clear decision, rationale and set of app
 
 ## Deliverables
 
+The analytical output for this workstream is documented in [`deliverable.md`](./deliverable.md).
+
 - [ ] Committee memorandum
 - [ ] Transaction and borrower summary
 - [ ] Credit rationale

@@ -16,6 +16,8 @@ Demonstrates that completing a transaction requires coordinated execution, not o
 
 ## Deliverables
 
+The analytical output for this workstream is documented in [`deliverable.md`](./deliverable.md).
+
 - [ ] Indicative process timeline
 - [ ] Mandate and initial pitch outline
 - [ ] Information request list

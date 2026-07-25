@@ -16,6 +16,8 @@ Tests whether the physical asset base can generate the forecast cash flows.
 
 ## Deliverables
 
+The analytical output for this workstream is documented in [`deliverable.md`](./deliverable.md).
+
 - [ ] Technology overview
 - [ ] Resource and production considerations
 - [ ] Asset age and remaining useful life

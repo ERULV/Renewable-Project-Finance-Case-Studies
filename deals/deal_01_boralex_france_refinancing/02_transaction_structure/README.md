@@ -16,6 +16,8 @@ Defines exactly what sits inside the transaction and how the relevant entities i
 
 ## Deliverables
 
+The analytical output for this workstream is documented in [`deliverable.md`](./deliverable.md).
+
 - [ ] Pre-transaction structure
 - [ ] Post-transaction structure
 - [ ] Borrower and guarantor perimeter

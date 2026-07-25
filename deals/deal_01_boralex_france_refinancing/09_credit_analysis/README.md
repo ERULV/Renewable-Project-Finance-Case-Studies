@@ -16,6 +16,8 @@ Synthesizes asset quality, cash flow, financing terms and sponsor considerations
 
 ## Deliverables
 
+The analytical output for this workstream is documented in [`deliverable.md`](./deliverable.md).
+
 - [ ] Credit strengths
 - [ ] Credit weaknesses
 - [ ] Cash-flow and leverage assessment

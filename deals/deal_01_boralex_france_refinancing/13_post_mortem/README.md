@@ -16,6 +16,8 @@ Converts one completed case study into durable professional knowledge.
 
 ## Deliverables
 
+The analytical output for this workstream is documented in [`deliverable.md`](./deliverable.md).
+
 - [ ] Transaction rationale assessment
 - [ ] Alternative-structure discussion
 - [ ] Benefits achieved by sponsors

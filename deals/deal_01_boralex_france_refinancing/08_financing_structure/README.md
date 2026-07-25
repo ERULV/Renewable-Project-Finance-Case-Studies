@@ -16,6 +16,8 @@ Connects the platform's cash-generating capacity with the debt instruments and c
 
 ## Deliverables
 
+The analytical output for this workstream is documented in [`deliverable.md`](./deliverable.md).
+
 - [ ] Facilities and financing purpose
 - [ ] Sources and uses where estimable
 - [ ] Debt amount and currency

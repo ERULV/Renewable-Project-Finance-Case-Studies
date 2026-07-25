@@ -16,6 +16,8 @@ Provides the factual baseline used by every subsequent chapter.
 
 ## Deliverables
 
+The analytical output for this workstream is documented in [`deliverable.md`](./deliverable.md).
+
 - [ ] Transaction summary
 - [ ] Announcement and closing dates
 - [ ] Borrower and ownership structure

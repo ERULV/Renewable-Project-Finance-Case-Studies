@@ -16,6 +16,8 @@ Makes explicit what could go wrong, who bears each risk and how the transaction 
 
 ## Deliverables
 
+The analytical output for this workstream is documented in [`deliverable.md`](./deliverable.md).
+
 - [ ] Risk register
 - [ ] Cause-and-consequence analysis
 - [ ] Probability and impact assessment
